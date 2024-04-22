@@ -1,6 +1,4 @@
 Hello, I am Devi 👋
-Thanks for stopping by. Here's a little bit about myself...
-😄 My pronouns are: She/Her
 🔭 I’m  data engineer.
 👯 I'm always open for freelance gigs and contract based opportunitites
 🤘 You can find various data engineering projects on my profile
